@@ -4,4 +4,4 @@ Just a Donet Core version (without F# support) of the project [CommandLineParser
 
 - [Wiki](https://github.com/commandlineparser/commandline/wiki)
 
-- [NUGET]()
+- **NUGET:** Install-Package CommandLineDotnetCore -Version 1.0.0
