@@ -1,4 +1,4 @@
-Just a Donet Core version (without F# support) of the project  https://github.com/commandlineparser/commandline (this last one is made and dependes of the .NET Framework to be installed)
+Just a Donet Core version (without F# support) of the project [CommandLineParser](https://github.com/commandlineparser/commandline) (this last one is made and dependes of the .NET Framework to be installed)
 
 - [GitHub](https://github.com/sfspacov/CommandLineDotnetCore)
 
