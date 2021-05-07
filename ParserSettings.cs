@@ -4,9 +4,9 @@ using System;
 using System.Globalization;
 using System.IO;
 
-using CommandLine.Infrastructure;
+using CommandLineDotnetCore.Infrastructure;
 
-namespace CommandLine
+namespace CommandLineDotnetCore
 {
     /// <summary>
     /// Provides settings for <see cref="CommandLine.Parser"/>. Once consumed cannot be reused.

@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace CommandLine
+namespace CommandLineDotnetCore
 {
     public static partial class ParserResultExtensions
     {

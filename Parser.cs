@@ -4,12 +4,12 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using CommandLine.Core;
-using CommandLine.Text;
+using CommandLineDotnetCore.Core;
+using CommandLineDotnetCore.Text;
 using CSharpx;
 using RailwaySharp.ErrorHandling;
 
-namespace CommandLine
+namespace CommandLineDotnetCore
 {
     /// <summary>
     /// Provides methods to parse command line arguments.

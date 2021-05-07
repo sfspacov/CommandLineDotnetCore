@@ -1,7 +1,7 @@
 // Copyright 2005-2015 Giacomo Stelluti Scala & Contributors. All rights reserved. See License.md in the project root for license information.
 
-using CommandLine.Core;
-using CommandLine.Infrastructure;
+using CommandLineDotnetCore.Core;
+using CommandLineDotnetCore.Infrastructure;
 
 using CSharpx;
 
@@ -13,7 +13,7 @@ using System.Linq;
 using System.Reflection;
 using System.Text;
 
-namespace CommandLine.Text
+namespace CommandLineDotnetCore.Text
 {
     /// <summary>
     /// Provides means to format an help screen.

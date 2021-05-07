@@ -1,11 +1,11 @@
 ﻿// Copyright 2005-2015 Giacomo Stelluti Scala & Contributors. All rights reserved. See License.md in the project root for license information.
 
-using CommandLine.Infrastructure;
+using CommandLineDotnetCore.Infrastructure;
 using CSharpx;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace CommandLine.Core
+namespace CommandLineDotnetCore.Core
 {
     static class KeyValuePairHelper
     {

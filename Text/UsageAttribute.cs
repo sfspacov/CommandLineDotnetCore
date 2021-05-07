@@ -2,7 +2,7 @@
 
 using System;
 
-namespace CommandLine.Text
+namespace CommandLineDotnetCore.Text
 {
     /// <summary>
     /// Applied to a static property that yields a sequence of <see cref="CommandLine.Text.Example"/>,

@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace CommandLine.Infrastructure
+namespace CommandLineDotnetCore.Infrastructure
 {
     static class ExceptionExtensions
     {

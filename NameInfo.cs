@@ -1,9 +1,9 @@
 ﻿// Copyright 2005-2015 Giacomo Stelluti Scala & Contributors. All rights reserved. See License.md in the project root for license information.
 
 using System;
-using CommandLine.Core;
+using CommandLineDotnetCore.Core;
 
-namespace CommandLine
+namespace CommandLineDotnetCore
 {
     /// <summary>
     /// Models name information, used in <see cref="CommandLine.Error"/> instances.

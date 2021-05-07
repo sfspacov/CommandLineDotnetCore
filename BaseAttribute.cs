@@ -2,7 +2,7 @@
 
 using System;
 
-namespace CommandLine
+namespace CommandLineDotnetCore
 {
     /// <summary>
     /// Models a base attribute to define command line syntax.

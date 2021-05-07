@@ -4,10 +4,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
-using CommandLine.Infrastructure;
+using CommandLineDotnetCore.Infrastructure;
 using CSharpx;
 
-namespace CommandLine.Core
+namespace CommandLineDotnetCore.Core
 {
     enum SpecificationType
     {

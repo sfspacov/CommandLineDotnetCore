@@ -3,7 +3,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace CommandLine
+namespace CommandLineDotnetCore
 {
     /// <summary>
     /// Provides convenience extension methods for <see cref="CommandLine.ParserResult{T}"/>.

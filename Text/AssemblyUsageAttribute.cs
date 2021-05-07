@@ -3,7 +3,7 @@
 using System;
 using System.Runtime.InteropServices;
 
-namespace CommandLine.Text
+namespace CommandLineDotnetCore.Text
 {
     /// <summary>
     /// Models a multiline assembly usage text.

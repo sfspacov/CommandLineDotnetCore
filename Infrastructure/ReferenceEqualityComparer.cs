@@ -4,7 +4,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 
-namespace CommandLine.Infrastructure
+namespace CommandLineDotnetCore.Infrastructure
 {
     internal sealed class ReferenceEqualityComparer : IEqualityComparer, IEqualityComparer<object>
     {

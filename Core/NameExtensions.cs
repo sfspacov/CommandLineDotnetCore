@@ -2,7 +2,7 @@
 
 using System;
 
-namespace CommandLine.Core
+namespace CommandLineDotnetCore.Core
 {
     static class NameExtensions
     {

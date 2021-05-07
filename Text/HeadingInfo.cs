@@ -4,10 +4,10 @@ using System;
 using System.IO;
 using System.Reflection;
 using System.Text;
-using CommandLine.Infrastructure;
+using CommandLineDotnetCore.Infrastructure;
 using CSharpx;
 
-namespace CommandLine.Text
+namespace CommandLineDotnetCore.Text
 {
     /// <summary>
     /// Models the heading part of an help text.

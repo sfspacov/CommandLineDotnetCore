@@ -3,7 +3,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace CommandLine
+namespace CommandLineDotnetCore
 {
     /// <summary>
     /// Models a verb command specification.

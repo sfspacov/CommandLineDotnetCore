@@ -3,7 +3,7 @@
 using System;
 using CSharpx;
 
-namespace CommandLine.Core
+namespace CommandLineDotnetCore.Core
 {
     struct TypeDescriptor
     {

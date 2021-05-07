@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using CSharpx;
 
-namespace CommandLine.Core
+namespace CommandLineDotnetCore.Core
 {
     static class TypeLookup
     {

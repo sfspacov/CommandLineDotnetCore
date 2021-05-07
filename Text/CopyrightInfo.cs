@@ -4,10 +4,10 @@ using System;
 using System.Globalization;
 using System.Reflection;
 using System.Text;
-using CommandLine.Infrastructure;
+using CommandLineDotnetCore.Infrastructure;
 using CSharpx;
 
-namespace CommandLine.Text
+namespace CommandLineDotnetCore.Text
 {
     /// <summary>
     /// Models the copyright part of an help text.

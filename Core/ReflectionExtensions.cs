@@ -6,11 +6,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
 using System.Reflection;
-using CommandLine.Infrastructure;
-using CommandLine.Text;
+using CommandLineDotnetCore.Infrastructure;
+using CommandLineDotnetCore.Text;
 using CSharpx;
 
-namespace CommandLine.Core
+namespace CommandLineDotnetCore.Core
 {
     static class ReflectionExtensions
     {

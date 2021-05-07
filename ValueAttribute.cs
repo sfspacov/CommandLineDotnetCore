@@ -2,7 +2,7 @@
 
 using System;
 
-namespace CommandLine
+namespace CommandLineDotnetCore
 {
     /// <summary>
     /// Models an value specification, or better how to handle values not bound to options.

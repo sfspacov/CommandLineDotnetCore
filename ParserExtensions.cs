@@ -3,7 +3,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace CommandLine
+namespace CommandLineDotnetCore
 {
     /// <summary>
     /// Defines generic overloads for <see cref="CommandLine.Parser.ParseArguments(IEnumerable&lt;string&gt;,Type[])"/>.

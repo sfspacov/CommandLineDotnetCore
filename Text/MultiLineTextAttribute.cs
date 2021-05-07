@@ -4,7 +4,7 @@ using System;
 using System.Text;
 using System.Linq;
 
-namespace CommandLine.Text
+namespace CommandLineDotnetCore.Text
 {
     /// <summary>
     /// Provides base properties for creating an attribute, used to define multiple lines of text.

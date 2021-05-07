@@ -2,7 +2,7 @@
 
 using System;
 
-namespace CommandLine.Infrastructure
+namespace CommandLineDotnetCore.Infrastructure
 {
     static class PopsicleSetter
     {

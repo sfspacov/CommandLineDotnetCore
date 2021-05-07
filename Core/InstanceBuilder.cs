@@ -4,12 +4,12 @@ using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
-using CommandLine.Infrastructure;
+using CommandLineDotnetCore.Infrastructure;
 using CSharpx;
 using RailwaySharp.ErrorHandling;
 using System.Reflection;
 
-namespace CommandLine.Core
+namespace CommandLineDotnetCore.Core
 {
     static class InstanceBuilder
     {

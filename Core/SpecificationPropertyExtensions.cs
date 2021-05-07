@@ -6,7 +6,7 @@ using System.Linq;
 using CSharpx;
 using System.Reflection;
 
-namespace CommandLine.Core
+namespace CommandLineDotnetCore.Core
 {
     static class SpecificationPropertyExtensions
     {

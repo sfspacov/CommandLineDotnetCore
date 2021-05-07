@@ -3,10 +3,10 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using CommandLine.Infrastructure;
+using CommandLineDotnetCore.Infrastructure;
 using CSharpx;
 
-namespace CommandLine.Core
+namespace CommandLineDotnetCore.Core
 {
     static class Scalar
     {

@@ -4,7 +4,7 @@ using System;
 using System.Reflection;
 using CSharpx;
 
-namespace CommandLine.Core
+namespace CommandLineDotnetCore.Core
 {
     class SpecificationProperty
     {

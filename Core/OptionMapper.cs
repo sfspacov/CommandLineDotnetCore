@@ -6,7 +6,7 @@ using System.Linq;
 using CSharpx;
 using RailwaySharp.ErrorHandling;
 
-namespace CommandLine.Core
+namespace CommandLineDotnetCore.Core
 {
     static class OptionMapper
     {

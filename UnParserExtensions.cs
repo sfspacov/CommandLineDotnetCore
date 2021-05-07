@@ -5,11 +5,11 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using CommandLine.Core;
-using CommandLine.Infrastructure;
+using CommandLineDotnetCore.Core;
+using CommandLineDotnetCore.Infrastructure;
 using CSharpx;
 
-namespace CommandLine
+namespace CommandLineDotnetCore
 {
     /// <summary>
     /// Provides settings for when formatting command line from an options instance../>.

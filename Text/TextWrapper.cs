@@ -2,9 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using CommandLine.Infrastructure;
+using CommandLineDotnetCore.Infrastructure;
 
-namespace CommandLine.Text
+namespace CommandLineDotnetCore.Text
 {
     /// <summary>
     /// A utility class to word-wrap and indent blocks of text

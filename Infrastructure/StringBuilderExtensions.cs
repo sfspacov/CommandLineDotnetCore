@@ -3,7 +3,7 @@
 using System;
 using System.Text;
 
-namespace CommandLine.Infrastructure
+namespace CommandLineDotnetCore.Infrastructure
 {
     static class StringBuilderExtensions
     {

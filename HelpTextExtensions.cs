@@ -4,7 +4,7 @@ using System.IO;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace CommandLine
+namespace CommandLineDotnetCore
 {
     public static class HelpTextExtensions
     {

@@ -4,7 +4,7 @@ using System;
 using System.Globalization;
 using System.Text;
 
-namespace CommandLine.Infrastructure
+namespace CommandLineDotnetCore.Infrastructure
 {
     static class StringExtensions
     {

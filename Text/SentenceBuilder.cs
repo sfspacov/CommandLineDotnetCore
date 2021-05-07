@@ -1,13 +1,13 @@
 ﻿// Copyright 2005-2015 Giacomo Stelluti Scala & Contributors. All rights reserved. See License.md in the project root for license information.
 
-using CommandLine.Infrastructure;
+using CommandLineDotnetCore.Infrastructure;
 
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace CommandLine.Text
+namespace CommandLineDotnetCore.Text
 {
     /// <summary>
     /// Exposes standard delegates to provide a mean to customize part of help screen generation.

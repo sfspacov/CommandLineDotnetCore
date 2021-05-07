@@ -2,10 +2,10 @@
 
 using System.Collections.Generic;
 using System.Linq;
-using CommandLine.Core;
-using CommandLine.Infrastructure;
+using CommandLineDotnetCore.Core;
+using CommandLineDotnetCore.Infrastructure;
 
-namespace CommandLine
+namespace CommandLineDotnetCore
 {
     static class ErrorExtensions
     {

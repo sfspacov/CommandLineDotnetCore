@@ -6,7 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace CommandLine.Core
+namespace CommandLineDotnetCore.Core
 {
     static class SpecificationPropertyRules
     {

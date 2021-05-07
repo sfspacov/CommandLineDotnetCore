@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 
-namespace CommandLine.Core
+namespace CommandLineDotnetCore.Core
 {
     sealed class Verb
     {

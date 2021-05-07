@@ -3,11 +3,11 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using CommandLine.Infrastructure;
+using CommandLineDotnetCore.Infrastructure;
 using CSharpx;
 using RailwaySharp.ErrorHandling;
 
-namespace CommandLine.Core
+namespace CommandLineDotnetCore.Core
 {
     static class ValueMapper
     {

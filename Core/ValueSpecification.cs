@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using CSharpx;
 
-namespace CommandLine.Core
+namespace CommandLineDotnetCore.Core
 {
     sealed class ValueSpecification : Specification
     {
