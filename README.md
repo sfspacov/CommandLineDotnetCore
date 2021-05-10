@@ -4,4 +4,4 @@ It's just a **NET 5.0** version (without F# support) of the project [CommandLine
 
 - [Wiki (original project)](https://github.com/commandlineparser/commandline/wiki)
 
-- [**NUGET:**](https://www.nuget.org/packages/CommandLineDotnetCore/): Install-Package CommandLineDotnetCore -Version 1.1.0
+- [**NUGET**](https://www.nuget.org/packages/CommandLineDotnetCore/): Install-Package CommandLineDotnetCore -Version 1.1.0
